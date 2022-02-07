@@ -212,7 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d249436298a61004d9038fbc7c6d8059, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_player: {fileID: 2685634866691706171, guid: a71f3c4f56e3d9f4d923dbe05d27556b,
+  m_player: {fileID: 6873246567094106117, guid: a71f3c4f56e3d9f4d923dbe05d27556b,
     type: 3}
   m_walkSpeed: 6.7
 --- !u!114 &4629185488747863244
@@ -227,6 +227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b50e48d947cbfc84b959168c4f0067fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_health: 100
 --- !u!54 &2157797476018778768
 Rigidbody:
   m_ObjectHideFlags: 0
